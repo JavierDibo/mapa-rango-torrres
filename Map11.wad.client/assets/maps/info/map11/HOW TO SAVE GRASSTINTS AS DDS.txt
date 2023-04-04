@@ -1,0 +1,7 @@
+https://killerskins.com/thekillerey/tutorials/creation/2d-editing/how-to-create-a-map-skin-easy/#editing-grasstints
+
+Photoshop Intel Texture works plug-in: Texture Type Color, Compression: none 32bpp (Lossless, no compression)
+Photoshop Nvidia dds plug-in: Format type 8.8.8.8 BGRA 32 bpp unsigned, compression quality highest
+Gimp: Compression None
+
+Everything else that can save as .dds: probably also save as uncompressed .dds or if there is no option for that 8.8.8.8

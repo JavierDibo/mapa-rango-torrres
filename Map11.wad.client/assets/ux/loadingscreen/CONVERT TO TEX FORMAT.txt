@@ -1,0 +1,2 @@
+Save as .dds with BC3/DXT5 compression and drag and drop it into .tex2dds
+https://github.com/Morilli/Ritoddstex/releases
